@@ -1,7 +1,6 @@
 document.getElementById("year").textContent = new Date().getFullYear();
 
 const root = document.documentElement;
-const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
 // Theme toggle (persisted)
 document.querySelector(".theme-toggle").addEventListener("click", () => {
@@ -26,28 +25,18 @@ menu.querySelectorAll("a").forEach((a) =>
 
 // Scroll progress bar
 const bar = document.querySelector(".progress");
+let ticking = false;
 const onScroll = () => {
-  const max = document.body.scrollHeight - innerHeight;
-  bar.style.width = (max > 0 ? (scrollY / max) * 100 : 0) + "%";
+  if (ticking) return;
+  ticking = true;
+  requestAnimationFrame(() => {
+    const max = document.documentElement.scrollHeight - innerHeight;
+    bar.style.transform = `scaleX(${max > 0 ? scrollY / max : 0})`;
+    ticking = false;
+  });
 };
 addEventListener("scroll", onScroll, { passive: true });
 onScroll();
-
-// Count-up numbers
-function countUp(el) {
-  const target = parseFloat(el.dataset.count);
-  const decimals = +(el.dataset.decimals || 0);
-  const suffix = el.dataset.suffix || "";
-  if (reduceMotion) { el.textContent = target.toFixed(decimals) + suffix; return; }
-  const start = performance.now(), dur = 1400;
-  const step = (now) => {
-    const p = Math.min((now - start) / dur, 1);
-    const eased = 1 - Math.pow(1 - p, 3);
-    el.textContent = (target * eased).toFixed(decimals) + suffix;
-    if (p < 1) requestAnimationFrame(step);
-  };
-  requestAnimationFrame(step);
-}
 
 // Reveal on scroll
 const io = new IntersectionObserver(
@@ -55,10 +44,9 @@ const io = new IntersectionObserver(
     entries.forEach((e) => {
       if (!e.isIntersecting) return;
       e.target.classList.add("visible");
-      e.target.querySelectorAll("[data-count]").forEach(countUp);
       io.unobserve(e.target);
     }),
-  { threshold: 0.12 }
+  { threshold: 0, rootMargin: "0px 0px -8% 0px" }
 );
 document.querySelectorAll(".reveal").forEach((el) => io.observe(el));
 

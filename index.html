@@ -15,12 +15,13 @@
   <link rel="stylesheet" href="style.css" />
   <script>
     // Apply saved theme before paint to avoid a flash.
+    document.documentElement.classList.add("js");
     const t = localStorage.getItem("theme");
     if (t) document.documentElement.dataset.theme = t;
   </script>
 </head>
 <body>
-  <div class="aurora" aria-hidden="true"><span></span><span></span><span></span></div>
+  <div class="aurora" aria-hidden="true"></div>
   <div class="progress" aria-hidden="true"></div>
 
   <!-- ============ NAV ============ -->
@@ -90,10 +91,10 @@
 
     <!-- ============ STATS ============ -->
     <section class="container stats reveal">
-      <div class="stat"><b data-count="3.76" data-decimals="2">0</b><span>CGPA at Tribhuvan University</span></div>
-      <div class="stat"><b data-count="8">0</b><span>Semesters — final year</span></div>
-      <div class="stat"><b data-count="2" data-suffix="+">0</b><span>Years in digital media</span></div>
-      <div class="stat"><b data-count="3">0</b><span>Languages spoken</span></div>
+      <div class="stat"><b>3.76</b><span>CGPA at Tribhuvan University</span></div>
+      <div class="stat"><b>8</b><span>Semesters — final year</span></div>
+      <div class="stat"><b>2+</b><span>Years in digital media</span></div>
+      <div class="stat"><b>3</b><span>Languages spoken</span></div>
     </section>
 
     <!-- ============ ABOUT ============ -->
