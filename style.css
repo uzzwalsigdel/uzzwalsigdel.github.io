@@ -128,6 +128,23 @@ h1 {
   margin: 1.4rem 0 1.2rem;
 }
 h1 em { color: var(--muted); font-weight: 600; }
+
+/* typewriter */
+.typing .ch { opacity: 0; transition: opacity .15s ease; }
+.typing .ch.on { opacity: 1; }
+.typing .grad { background: none; }
+.typing .grad .ch {
+  background-image: var(--grad); background-repeat: no-repeat;
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.typing .ch.cur { position: relative; }
+.typing .ch.cur::after {
+  content: ""; position: absolute; right: -.08em; top: .12em; bottom: .08em; width: .07em;
+  border-radius: 2px; background: var(--crimson);
+  animation: caret 1s step-end infinite;
+}
+.typing .ch.done::after { animation: caret 1s step-end 4 forwards; }
+@keyframes caret { 50% { opacity: 0; } }
 .grad { background: var(--grad); -webkit-background-clip: text; background-clip: text; color: transparent; }
 .lead { font-size: 1.1rem; color: var(--muted); max-width: 580px; }
 .lead strong { color: var(--text); }
@@ -348,6 +365,7 @@ h2 em { background: var(--grad); -webkit-background-clip: text; background-clip:
 }
 @media (max-width: 560px) {
   .section { padding-top: 5rem; }
+  h1 { font-size: 2.15rem; }
   .bento, .interests { grid-template-columns: 1fr; }
   .about-main { grid-column: auto; }
   .float-card { display: none; }
