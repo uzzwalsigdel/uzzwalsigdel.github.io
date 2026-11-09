@@ -1,0 +1,83 @@
+                                   TRIBHUVAN UNIVERSITY
+                                  FACULTY OF MANAGEMENT
+                                         Office of the Dean          Full Marks: 100
+                                    Model Question                   Time: 3 Hrs
+             BBA/ Eighth Semester/ BNK 209: Insurance and Risk Management
+Candidates are required to give their answers in their own words as far as practicable.
+
+                                              Group - A
+Brief Answer Questions (Attempt ALL Questions)                                                [10×2=20]
+   1. Define risk, peril and hazard.
+   2. What do you mean by systemic risk?
+   3. List out the objectives of risk management.
+   4. Define risk pooling.
+   5. Define insurance and list down its basic characteristics.
+   6. Differentiate life insurance and non-life insurance.
+   7. Define loss forecasting. List out the common techniques of loss forecasting.
+   8. How does Risk Management Information System help in risk management?
+   9. What are the tax benefits and payout taxes for life insurance in Nepal?
+   10. Define third-party liability insurance in terms of auto (motor) insurance.
+                                              Group - B
+Descriptive Answer Questions: (Attempt any SIX Questions)                                [6×5=30]
+   11. Differentiate between insurance and gambling.
+   12. Explain the concept and significance of law of large number in risk pooling?
+   13. Define adverse selection. Explain the tools used by insurance companies to control the
+       chance of adverse selection.
+   14. Explain about premature death. Also explain its financial implications.
+   15. Mr. Suman Thapa, aged 40, is married and has two children. He earns Rs.600,000
+       annually and plans to retire at age 60. Of this amount, Rs.30,000 is used for taxes, life and
+       health insurance, and his personal needs. The remaining amount is used to support his
+       family. Using a discount rate of 6 percent, calculate the human life value of Mr. Shrestha.
+       Note that the present value of Re.1 received annually for 20 years at 6% is Rs.11.4699.
+   16. Explain the third-party liability insurance in terms of auto (motor) insurance.
+   17. Explain social insurance with few examples.
+                                              Group - C
+Analytical Answer Questions (Attempt any THREE Questions)                                   [3×10=30]
+   18. Explain the concept and process of risk management.
+   19. Explain the fundamental legal principles of insurance contract.
+   20. Explain about agriculture insurance. Why do you think agriculture insurance is important
+       for countries like Nepal?
+   21. Insurance is one of the heavily regulated area of the overall financial system. In light of
+       this statement, explain the reasons for insurance regulations.
+                                      Group - D
+Comprehensive Answer Questions/Case Study:                                                        [4×5=20]
+   22. Read the following case carefully and answer the question that follow:
+   Aarav Sharma is a 42 years old Senior Project Manager and the primary breadwinner for his
+   family with a spouse and two children. He is also a stock investor and trader. Recently, he
+   decided to quit his job and start his own venture named Everest Tech Solutions, a consultancy
+   firm that specializes in digital transformation for local financial institutions. He has invested a
+   significant portion of his personal savings into the startup, leased a modern office space, and
+   hired five employees. As Everest Tech Solutions begins its operations, Aarav faces a complex
+   web of risks that threaten both his personal financial stability and the viability of his new
+   business.
+   Aarav’s family relies entirely on his income. If he were to suffer a premature death, become
+   permanently disabled or get diagnosed with a critical illness, his family would be unable to
+   meet their living expenses and education costs for their children. Further, his family will not
+   have funds to pay off the mortgage on their house and the car. The new office contains
+   expensive server equipment and high-end laptops. A fire or a localized earthquake could result
+   in a total loss of physical assets. There is also the risk of data breach on the client's server due
+   to a configuration error his employee. The loss of sensitive customer data and business
+   interruption could expose his business to enormous liability.
+   Aarav is planning to purchase a life insurance policy to ensures that in the event of his
+   untimely demise, his family receives a lumpsum to clear the mortgage and fund his children’s
+   education. He is also worried that if he becomes permanently disabled due to accident or gets
+   diagnosed with any critical illness, he will not be able to work and his regular income would
+   be lost.
+   With years of experience, Aarav also knows there are insurance coverages available to cover
+   the office and its contents (servers, furniture, and electronics) against fire, lightning, and
+   natural disasters like earthquakes or floods. He is also aware about the professional liability
+   insurance that can protect his company against data breaches or other losses due to negligence,
+   errors and omission of his employees during their professional services. He believes the
+   Professional Liability Insurance Policy will provide coverage for the damage to the client as
+   well as the legal costs to be paid for defending his organization. Aarav is also planning to take
+   a group health insurance policy for his five employees to retain the employees as well as to
+   ensure that they have access to quality healthcare without financial strain.
+   Case Study Questions
+   a) Identify all the pure risks and speculative risks faced by Aarav or his organization.
+   b) Which type of life insurance policy do you suggest to Aarav? Justify your answer. What
+      additional benefits could be added to the policy to enhance the coverage?
+   c) How can a Professional Liability Insurance protect Everest Tech Solutions?
+   d) Why do you think is the decision to provide Group Health Insurance for the staffs
+      considered a risk management tool, rather than just an additional expense to the
+      organization?
+                                             THE END
