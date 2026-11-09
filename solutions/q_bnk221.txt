@@ -1,0 +1,124 @@
+                             TRIBHUVAN UNIVERSITY
+                            FACULTY OF MANAGEMENT
+                                    Office of the Dean
+                                                                      Full Marks: 100
+                                 Model Question 2026                  Time: 3 Hrs
+              BBA/ Eighth Semester/ BNK 221: Corporate Financing Decision
+Candidates are required to give their answers in their own words as far as practicable.
+                                            Group - A
+Brief Answer Questions (Attempt ALL Questions)                                            [10×2=20]
+      1. What do you mean by corporate financing decision?
+      2. Define preemptive right.
+      3. List out the major types leases.
+      4. Write the meaning of trust-receipt loan.
+      5. Define financial distress.
+      6. What is meant by call feature of bond?
+      7. Write about founders and angels in financing.
+      8. What do you mean by moratorium period in a term loan?
+                                         3
+     9. Star Traders buys under terms of 10 net 50. Star Trader does not take discount and pays
+         on 60th day. What is the annual percentage cost of stretching accounts payable? Assume
+         360 days in a year.
+
+     10. Shikhar Company has 500,000 shares outstanding and the firm’s charter provides
+        for a cumulative voting procedure. The company has nine directors. What is the
+        minimum number of shares needed to ensure the election of one director?
+
+
+
+
+                                            Group - B
+Descriptive Answer Questions: (Attempt any SIX Questions)                            [6×5=30]
+     11. Describe the features of optimal capital structure.
+     12. Discuss the merits and demerits of long-term debt as a source of financing.
+     13. Explain the concept and importance of venture capital financing.
+     14. What is leveraged buyout? Describe the characteristics of successful LBO.
+     15. Differentiate between operating lease and financial lease.
+     16. The Mega Company has warrants outstanding that expire in three years. Each warrant
+         entitles the holder to purchase two shares of common stock at an exercise price of
+         Rs 150 per share. Determine theoretical value and premium over the theoretical value if
+         the respective prices of common stock and warrants are:
+              a. Rs 140 per share and Rs 10 per warrant.
+              b. Rs 160 per share and Rs 40 per warrant.
+     17. Akash Food Company (AFC) projects an increase in sales from Rs 1,200,000 to
+         Rs 1,800,000 but it needs an additional Rs 200,000 of current assets to support this
+         expansion. The money can be obtained from the bank at an interest rate of 12 percent,
+         discount interest; no compensating balance is required. Alternatively, AFC can finance
+        the expansion by no longer taking discounts, thus increasing accounts payable. AFC
+        purchases on the terms of 3/10, net 40, but it can delay payment for an additional 20
+        days and thus becoming 20 days past due without a penalty.
+              Based strictly on effective annual interest rate comparisons, how should AFC
+              finance its expansion?
+
+
+                                            Group - C
+Analytical Answer Questions (Attempt any THREE Questions)                               [3×10=30]
+     18. Explain the methods of issuing securities. Also discuss the process of initial public
+         offering.
+     19. The Nepal Energy Company has announced a rights offer to raise Rs 600 million for a
+         new Gas Station. The stock currently sells for Rs 600 per share, and there are 4.8 million
+         shares outstanding. Par value is Rs 100.
+              a. What is the maximum possible subscription price? What is the minimum?
+              b. If the subscription price is set at Rs 500 per share, how many shares must be sold?
+              c. How many rights will it take to buy one share?
+              d. What is the value of a right?
+              e. What is the ex-rights price?
+              f. Show how a shareholder with 1,000 shares before the offering and no desire
+                   (or money) to buy additional shares is not harmed by the rights offer.
+
+       20. The Kathmandu Electronic Company (KEC) intends to borrow Rs 800,000 to support
+       its short-term financing requirements during the next year. The financing alternatives
+       offered by the bank include:
+              Alternative 1: A discount interest loan with a simple interest of 15 percent and no
+                           compensating balance requirement.
+              Alternative 2: A 14 percent simple interest loan that has a 15 percent
+                           compensating balance requirement.
+              Alternative 3: Rs 1 million revolving line of credit with simple interest of 12
+                           percent paid on the amount borrowed and a 1 percent commitment
+                           fee.
+              a. Compute the effective cost (rate) of each financing alternative assuming KEC
+                 borrows Rs 800,000. Which alternative should it use?
+              b. Discuss the factors other than cost to be considered while choosing a bank for
+                 short-term loan.
+
+       21. Himalaya Company can lease equipment for three years, making annual payments of
+          Rs 150,000 per year at the end of each year or they can buy the equipment for
+          Rs 300,000. At the end of third years, the equipment will have Rs 60,000 salvage value.
+          The firm's before tax cost of debt is 10 percent. The company uses straight-line
+          depreciation and has a 40 percent tax rate.
+              a. Calculate cost of leasing.
+              b. Calculate cost of purchasing. Should the machine be leased or purchased?
+              c. The appropriate discount rate for cash flows used in the analysis is the firm’s
+                  after-tax cost of debt. Why?
+                                      Group - D
+Comprehensive Answer Questions/Case Study:                                                                [5×4=20]
+        22. Read the following case carefully and answer the question that follow:
+The Himalayan Herbal Company (HHC) has grown rapidly during the past five years. Recently, it has
+discovered new investment opportunity. Company is planning to increase debt to finance the new project.
+There are two alternatives to raise debt capital for the company: i. convertible debenture, ii. bonds with
+warrants. HH Company is contemplating-raising Rs 10 million by means of a debt issue. It has the
+following alternatives:
+
+
+a.   A 20-year, 8 percent convertible debenture issue with a Rs 50 conversion price and Rs 1,000 face
+     value.
+b.   A 20-year, 10 percent straight bond issue. Each Rs 1,000 bond has a detachable warrant to purchase
+     four shares for Rs 50 a share.
+       The company has a 50 percent tax rate, and its stock is currently selling at Rs 40 a share. Its earnings
+       before interest and taxes are a constant 20 percent of its total capitalization, which currently appears
+       as follows:
+
+
+
+           Common stock (par Rs 5)                                                     Rs 5,000,000
+           Additional paid-in capital                                                     10,000,000
+           Retained earnings                                                              15,000,000
+           Total                                                                       Rs 30,000,000
+
+
+i. Show the capitalizations before and after conversion of convertible.
+ii. Show the capitalizations before and after exercise of warrants.
+iii. Compute earnings per share currently and before and after conversion of convertible and exercise of
+      warrant.
+iv. Describe the reasons for issuing warrants and convertible.
+                                                   THE END

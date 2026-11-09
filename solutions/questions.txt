@@ -1,0 +1,325 @@
+                             TRIBHUVAN UNIVERSITY
+                            FACULTY OF MANAGEMENT
+                                    Office of the Dean
+                                                                      Full Marks: 100
+                                 Model Question 2026                  Time: 3 Hrs
+              BBA/ Eighth Semester/ BNK 221: Corporate Financing Decision
+Candidates are required to give their answers in their own words as far as practicable.
+                                            Group - A
+Brief Answer Questions (Attempt ALL Questions)                                            [10×2=20]
+      1. What do you mean by corporate financing decision?
+      2. Define preemptive right.
+      3. List out the major types leases.
+      4. Write the meaning of trust-receipt loan.
+      5. Define financial distress.
+      6. What is meant by call feature of bond?
+      7. Write about founders and angels in financing.
+      8. What do you mean by moratorium period in a term loan?
+                                         3
+     9. Star Traders buys under terms of 10 net 50. Star Trader does not take discount and pays
+         on 60th day. What is the annual percentage cost of stretching accounts payable? Assume
+         360 days in a year.
+
+     10. Shikhar Company has 500,000 shares outstanding and the firm’s charter provides
+        for a cumulative voting procedure. The company has nine directors. What is the
+        minimum number of shares needed to ensure the election of one director?
+
+
+
+
+                                            Group - B
+Descriptive Answer Questions: (Attempt any SIX Questions)                            [6×5=30]
+     11. Describe the features of optimal capital structure.
+     12. Discuss the merits and demerits of long-term debt as a source of financing.
+     13. Explain the concept and importance of venture capital financing.
+     14. What is leveraged buyout? Describe the characteristics of successful LBO.
+     15. Differentiate between operating lease and financial lease.
+     16. The Mega Company has warrants outstanding that expire in three years. Each warrant
+         entitles the holder to purchase two shares of common stock at an exercise price of
+         Rs 150 per share. Determine theoretical value and premium over the theoretical value if
+         the respective prices of common stock and warrants are:
+              a. Rs 140 per share and Rs 10 per warrant.
+              b. Rs 160 per share and Rs 40 per warrant.
+     17. Akash Food Company (AFC) projects an increase in sales from Rs 1,200,000 to
+         Rs 1,800,000 but it needs an additional Rs 200,000 of current assets to support this
+         expansion. The money can be obtained from the bank at an interest rate of 12 percent,
+         discount interest; no compensating balance is required. Alternatively, AFC can finance
+        the expansion by no longer taking discounts, thus increasing accounts payable. AFC
+        purchases on the terms of 3/10, net 40, but it can delay payment for an additional 20
+        days and thus becoming 20 days past due without a penalty.
+              Based strictly on effective annual interest rate comparisons, how should AFC
+              finance its expansion?
+
+
+                                            Group - C
+Analytical Answer Questions (Attempt any THREE Questions)                               [3×10=30]
+     18. Explain the methods of issuing securities. Also discuss the process of initial public
+         offering.
+     19. The Nepal Energy Company has announced a rights offer to raise Rs 600 million for a
+         new Gas Station. The stock currently sells for Rs 600 per share, and there are 4.8 million
+         shares outstanding. Par value is Rs 100.
+              a. What is the maximum possible subscription price? What is the minimum?
+              b. If the subscription price is set at Rs 500 per share, how many shares must be sold?
+              c. How many rights will it take to buy one share?
+              d. What is the value of a right?
+              e. What is the ex-rights price?
+              f. Show how a shareholder with 1,000 shares before the offering and no desire
+                   (or money) to buy additional shares is not harmed by the rights offer.
+
+       20. The Kathmandu Electronic Company (KEC) intends to borrow Rs 800,000 to support
+       its short-term financing requirements during the next year. The financing alternatives
+       offered by the bank include:
+              Alternative 1: A discount interest loan with a simple interest of 15 percent and no
+                           compensating balance requirement.
+              Alternative 2: A 14 percent simple interest loan that has a 15 percent
+                           compensating balance requirement.
+              Alternative 3: Rs 1 million revolving line of credit with simple interest of 12
+                           percent paid on the amount borrowed and a 1 percent commitment
+                           fee.
+              a. Compute the effective cost (rate) of each financing alternative assuming KEC
+                 borrows Rs 800,000. Which alternative should it use?
+              b. Discuss the factors other than cost to be considered while choosing a bank for
+                 short-term loan.
+
+       21. Himalaya Company can lease equipment for three years, making annual payments of
+          Rs 150,000 per year at the end of each year or they can buy the equipment for
+          Rs 300,000. At the end of third years, the equipment will have Rs 60,000 salvage value.
+          The firm's before tax cost of debt is 10 percent. The company uses straight-line
+          depreciation and has a 40 percent tax rate.
+              a. Calculate cost of leasing.
+              b. Calculate cost of purchasing. Should the machine be leased or purchased?
+              c. The appropriate discount rate for cash flows used in the analysis is the firm’s
+                  after-tax cost of debt. Why?
+                                      Group - D
+Comprehensive Answer Questions/Case Study:                                                                [5×4=20]
+        22. Read the following case carefully and answer the question that follow:
+The Himalayan Herbal Company (HHC) has grown rapidly during the past five years. Recently, it has
+discovered new investment opportunity. Company is planning to increase debt to finance the new project.
+There are two alternatives to raise debt capital for the company: i. convertible debenture, ii. bonds with
+warrants. HH Company is contemplating-raising Rs 10 million by means of a debt issue. It has the
+following alternatives:
+
+
+a.   A 20-year, 8 percent convertible debenture issue with a Rs 50 conversion price and Rs 1,000 face
+     value.
+b.   A 20-year, 10 percent straight bond issue. Each Rs 1,000 bond has a detachable warrant to purchase
+     four shares for Rs 50 a share.
+       The company has a 50 percent tax rate, and its stock is currently selling at Rs 40 a share. Its earnings
+       before interest and taxes are a constant 20 percent of its total capitalization, which currently appears
+       as follows:
+
+
+
+           Common stock (par Rs 5)                                                     Rs 5,000,000
+           Additional paid-in capital                                                     10,000,000
+           Retained earnings                                                              15,000,000
+           Total                                                                       Rs 30,000,000
+
+
+i. Show the capitalizations before and after conversion of convertible.
+ii. Show the capitalizations before and after exercise of warrants.
+iii. Compute earnings per share currently and before and after conversion of convertible and exercise of
+      warrant.
+iv. Describe the reasons for issuing warrants and convertible.
+                                                   THE END
+                                   TRIBHUVAN UNIVERSITY
+                                  FACULTY OF MANAGEMENT
+                                         Office of the Dean          Full Marks: 100
+                                    Model Question                   Time: 3 Hrs
+             BBA/ Eighth Semester/ BNK 209: Insurance and Risk Management
+Candidates are required to give their answers in their own words as far as practicable.
+
+                                              Group - A
+Brief Answer Questions (Attempt ALL Questions)                                                [10×2=20]
+   1. Define risk, peril and hazard.
+   2. What do you mean by systemic risk?
+   3. List out the objectives of risk management.
+   4. Define risk pooling.
+   5. Define insurance and list down its basic characteristics.
+   6. Differentiate life insurance and non-life insurance.
+   7. Define loss forecasting. List out the common techniques of loss forecasting.
+   8. How does Risk Management Information System help in risk management?
+   9. What are the tax benefits and payout taxes for life insurance in Nepal?
+   10. Define third-party liability insurance in terms of auto (motor) insurance.
+                                              Group - B
+Descriptive Answer Questions: (Attempt any SIX Questions)                                [6×5=30]
+   11. Differentiate between insurance and gambling.
+   12. Explain the concept and significance of law of large number in risk pooling?
+   13. Define adverse selection. Explain the tools used by insurance companies to control the
+       chance of adverse selection.
+   14. Explain about premature death. Also explain its financial implications.
+   15. Mr. Suman Thapa, aged 40, is married and has two children. He earns Rs.600,000
+       annually and plans to retire at age 60. Of this amount, Rs.30,000 is used for taxes, life and
+       health insurance, and his personal needs. The remaining amount is used to support his
+       family. Using a discount rate of 6 percent, calculate the human life value of Mr. Shrestha.
+       Note that the present value of Re.1 received annually for 20 years at 6% is Rs.11.4699.
+   16. Explain the third-party liability insurance in terms of auto (motor) insurance.
+   17. Explain social insurance with few examples.
+                                              Group - C
+Analytical Answer Questions (Attempt any THREE Questions)                                   [3×10=30]
+   18. Explain the concept and process of risk management.
+   19. Explain the fundamental legal principles of insurance contract.
+   20. Explain about agriculture insurance. Why do you think agriculture insurance is important
+       for countries like Nepal?
+   21. Insurance is one of the heavily regulated area of the overall financial system. In light of
+       this statement, explain the reasons for insurance regulations.
+                                      Group - D
+Comprehensive Answer Questions/Case Study:                                                        [4×5=20]
+   22. Read the following case carefully and answer the question that follow:
+   Aarav Sharma is a 42 years old Senior Project Manager and the primary breadwinner for his
+   family with a spouse and two children. He is also a stock investor and trader. Recently, he
+   decided to quit his job and start his own venture named Everest Tech Solutions, a consultancy
+   firm that specializes in digital transformation for local financial institutions. He has invested a
+   significant portion of his personal savings into the startup, leased a modern office space, and
+   hired five employees. As Everest Tech Solutions begins its operations, Aarav faces a complex
+   web of risks that threaten both his personal financial stability and the viability of his new
+   business.
+   Aarav’s family relies entirely on his income. If he were to suffer a premature death, become
+   permanently disabled or get diagnosed with a critical illness, his family would be unable to
+   meet their living expenses and education costs for their children. Further, his family will not
+   have funds to pay off the mortgage on their house and the car. The new office contains
+   expensive server equipment and high-end laptops. A fire or a localized earthquake could result
+   in a total loss of physical assets. There is also the risk of data breach on the client's server due
+   to a configuration error his employee. The loss of sensitive customer data and business
+   interruption could expose his business to enormous liability.
+   Aarav is planning to purchase a life insurance policy to ensures that in the event of his
+   untimely demise, his family receives a lumpsum to clear the mortgage and fund his children’s
+   education. He is also worried that if he becomes permanently disabled due to accident or gets
+   diagnosed with any critical illness, he will not be able to work and his regular income would
+   be lost.
+   With years of experience, Aarav also knows there are insurance coverages available to cover
+   the office and its contents (servers, furniture, and electronics) against fire, lightning, and
+   natural disasters like earthquakes or floods. He is also aware about the professional liability
+   insurance that can protect his company against data breaches or other losses due to negligence,
+   errors and omission of his employees during their professional services. He believes the
+   Professional Liability Insurance Policy will provide coverage for the damage to the client as
+   well as the legal costs to be paid for defending his organization. Aarav is also planning to take
+   a group health insurance policy for his five employees to retain the employees as well as to
+   ensure that they have access to quality healthcare without financial strain.
+   Case Study Questions
+   a) Identify all the pure risks and speculative risks faced by Aarav or his organization.
+   b) Which type of life insurance policy do you suggest to Aarav? Justify your answer. What
+      additional benefits could be added to the policy to enhance the coverage?
+   c) How can a Professional Liability Insurance protect Everest Tech Solutions?
+   d) Why do you think is the decision to provide Group Health Insurance for the staffs
+      considered a risk management tool, rather than just an additional expense to the
+      organization?
+                                             THE END
+                                          TRIBHUVAN UNIVERSITY                                         Full Marks: 100
+                                         FACULTY OF MANAGEMENT                                         Pass Marks: 50
+                                              Office of the Dean                                       Time: 3 Hours
+                                                   2026
+                                               Model Question
+                              BBA/ Eighth Semester/ BNK 202: Financial Derivatives
+Candidates are required to give their answers in their own words as far as practicable.
+                                                          GROUP – A
+Brief-answer Questions                                                                                [10 × 2 = 20]
+1. Why is a derivative instrument known as a zero-sum game?
+2. Why do investors pay more for an American option than similar European option?
+3. An investor who wants to achieve maximum gain and accept a higher maximum loss selects a call option with a lower
+    exercise price. Justify.
+4. A longer-lived option has a higher price. Do you agree? Give reasons.
+5. Define future contract.
+6. What do you mean by upside capture in portfolio insurance?
+7. Under what conditions is a long hedge using futures suitable?
+8. Write the meaning of synthetic instruments.
+9. Why do investors prefer bull spreads from call options over those from put options?
+10. If you want to change the fixed-rate liability in to foliating-rate liability using a swap, how would you do it?
+                                                           GROUP – B
+Short-answer Questions: (Attempt any SIX Questions)                                                  [6 × 5 = 30]
+11. Describe the role of the derivative market.
+12. An investor purchased a June put option with an exercise price of Rs 600 by paying a premium of Rs 50 and is holding
+    it until June. Under what circumstances will the option be exercised? Under what circumstances will the holder of the
+    option make a profit? With the help of a diagram, explain how the profit from a long position in the option depends on
+    the stock price at the maturity of the option.
+13. An equity swap between the Employee Provident Fund (EPF) and Nabil Dealer is entered into. EPF pays floating
+    interest payments based on SOFR, and Nabil pays a return on the NEPSE index. The payments are made quarterly,
+    assuming a 30-day month and a 360-day year. The NEPSE index at the time of swap initiation was 2745.63, and the
+    90-day SOFR was 8 percent. Now, assume it is 50 days into the life of the swap. The NEPSE is now 2825.02, and the
+    40-day SOFR rate is 7.8 percent. Find the value of the swap today. Assume a notional principal of Rs 50,000,000.
+14. People's Power Company (PCC), a Nepalese hydro-power company, purchased equipment from Baltimore Heavy
+    Industry, a U. S. firm, for $5 million payable in one year. The current spot rate is Rs 140 per dollar, and the one-year
+    forward rate is 130 yen per dollar. The annual interest rate is 5% in Nepal, and 8% in the U.S. PCC can also buy a one-
+    year call option on the dollar at the strike price of Rs 125 per dollar for a premium of Rs 14 per dollar.
+    a. Assuming that the forward exchange rate is the best predictor of the future spot rate, compute the expected future
+         rupee cost of meeting this obligation when the option hedge is used.
+    b. At what future spot rate do you think PCC may be indifferent between the option and forward hedge?
+15. HDL stock is currently selling at Rs 900. A put option on HDL has an exercise price of Rs 1000 and matures in one
+    year. The annually compounded interest rate is 8 percent. The quoted price of the put option is Rs 60. Identify the
+    appropriate arbitrage opportunity and show the arbitrage profit for the stock price of Rs 800 and Rs 1200 after one
+    year.
+16. The stock of Birat Company is currently selling for Rs 650. A 6-month call option on the stock has an exercise price of
+    Rs 660. The standard deviation of returns on Birat stock has been estimated to be 50 percent. Currently, the 6-month
+    T-bill rate is 10 percent. Using the BSM model, calculate the price of the call option on Birat.
+17. An investor enters into two long futures contracts on orange. Each contract has a contract size of 10,000 pounds. The
+    current futures price is Rs 100 per pound. The initial margin is Rs 3,00,000 per contract, and the maintenance margin
+    is Rs 1,50,000.
+    a. What price change would lead to a margin call?
+    b. What happens if the margin call money is not deposited?
+    c. Under what circumstances could Rs 1,00,000 be withdrawn from the margin account?
+                                                        GROUP – C
+Long-answer Questions: (Attempt any THREE Questions)                                               [3 × 10 = 30]
+18. NRIC stock is currently trading at Rs 1200 per share. At-the-money options on MRIC with 180 days to expiration are
+    actively traded in the option exchange. You want to use the binomial model to value this option and expect that either
+    the stock price increases by 25 percent or it decreases by 20 percent at the end of six months. You can borrow money
+    at 8 percent per annum. Assume a 360-day year.
+    a. Calculate the fair price of the call option today.
+    b. Calculate the arbitrage return in percentage if the actual price of this call option in the market is Rs 140.
+19. A one-year swap with quarterly payment and notional principal of Rs 100 million is entered between Citizen
+    Investment Trust (CIT) and Global Bank. Payments will be based on a 30-day month and a 360-day year. The CIT
+    agreed to make interest payments based on the 90-day T-bill rate, and Global Bank agreed to make interest payments
+    based on the 90-day SOFR minus a spread.
+     a. Find the spread that should be deducted from the SOFR rate on each payment date.
+        The term structures of interest rates are given below.
+                          Term                       SOFR rate                    T-bill rate
+                        90 days                        7.50%                         5.50%
+                       180 days                        7.95%                         5.87%
+                       270 days                        8.52%                         6.30%
+                       360 days                        9.00%                         6.90%
+             b. Assume it is 60 days into the life of the swap. The new term structures of interest rates are as follows.
+                 Find the value of the swap for both counterparties.
+                          Term                       SOFR rate                    T-bill rate
+                        30 days                        8.00%                         6.00%
+                       120 days                        8.45%                         6.47%
+                       210 days                        9.00%                         6.95%
+                       300 days                        9.55%                         7.40%
+    20. A stock is expected to pay a dividend of Rs 10 per share in two months and five months from today. The stock
+        price is Rs 500, and the risk-free interest rate is 8% p.a. with continuous compounding for all maturities. An
+        investor has just taken a short position in a six-month forward contract on the stock.
+             a. What are the forward price and the initial value of the forward contract?
+             b. Show the arbitrage process if the market price of the forward is Rs 515.
+             b. Three months later, the stock price is Rs 480, and the risk-free rate of interest is still 8% p.a. What are the
+                 forward price and the value of the short position in the forward contract?
+    21. Explain the margin rule and the margin operation process by a clearinghouse in option trading.
+                                                         GROUP – D
+Comprehensive-answer / Case / Situation Analysis Questions:                                                            [ 20]
+22. Krishna Pauroti Company is an exchange-listed company that produces and sells different brands of bread throughout
+    Nepal. The company’s products gained popularity in a short period. The company’s earnings and stock price are
+    growing rapidly. Since its stock is actively traded on the stock exchange, it is also listed on the options exchange. Call
+    and put options on Krishna stock, which is also actively trading. The company has announced that it is planning to
+    expand its capacity by 100 percent within six months to meet the increased demand. Yesterday, a case against the
+    Company was filed in court, stating that a popular brand of the Company’s bread is unhealthy and the company is
+    knowingly ignoring public health. The court had issued a stay order to the company to stop the production and sale of
+    that particular brand of bread until the court gave a final verdict. Today’s trade volume of Krishna stock has become
+    very low. The stock closed at Rs 240 per share today. Call and put options on Krishna with an exercise price of Rs 240
+    and three months to expiration closed at Rs 40 and Rs 20, respectively. Stock traders in the market are waiting for the
+    court verdict. Special courts handle such cases, and usually, the verdict comes within three months. The risk-free rate
+    of interest is currently 6 percent per annum. You are considering investing Rs 240,000 in Krishna stock, an option on
+    Krishna stock, or a combination of both.
+     a. If you believe the court verdict will favor the company and want to speculate on the option, which option do you
+          buy? Why? How much will you earn/lose if the stock price after three months increases to Rs 350? What will be
+          your annual rate of return?
+     b. If you believe that the court verdict will come against the company and want to speculate on the option, which
+          option do you buy? Why? How much will you earn/lose if the stock price after three months decreases to Rs
+          250? What will be your annual rate of return? Compare the risk and return of your investment with that of your
+          stock investment.
+     c. Assume you cannot guess whether the court verdict may come in favor of or against the company. Is a long
+          straddle beneficial in such conditions? Why? Calculate gain/loss from long straddle for expiration stock prices of
+          Rs 160, Rs 180, … Rs 320. After three months, calculate the maximum possible gain, maximum possible loss,
+          and breakeven stock price(s) for your strategy.
+     d. Considering the uncertainty of the verdict, you want to ensure your portfolio of stocks using put options. How
+          many stocks and put options do you need to hold? What will be the ensured value of your portfolio? What will
+          be the value of the ensured portfolio if the verdict came in favor of the company, and the stock price increased to
+          Rs 350? Also, calculate the cost of insurance and the upside capture. [4+4+6+6]
+                                                           ֍֍֍֍֍
+
